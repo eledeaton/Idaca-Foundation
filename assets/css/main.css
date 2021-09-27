@@ -2291,7 +2291,7 @@
                 display: block;
                 width: 100%;
                 height: 0.75em;
-                background-color: #37c0fb;
+                background-color: #21489ca9;
                 background-image: url("images/bg01.png");
             }
             
@@ -2338,8 +2338,8 @@
                 bottom: -0.5em;
                 left: 50%;
                 margin-left: -0.375em;
-                background-color: #37c0fb;
-                background-image: url("images/bg01.png");
+                /* background-color: #37c0fb; */
+                /* background-image: url("images/bg01.png"); */
             }
             
             #nav>ul>li.current a {
@@ -2747,7 +2747,7 @@
         background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3)), url("images/bg01.png"); */
                     height: 44px;
                     line-height: 44px;
-                    box-shadow: 0 4px 0 0 #37c0fb;
+                    box-shadow: 0 4px 0 0 #21486ca9;
                 }
                 #titleBar .title {
                     display: block;
@@ -3059,7 +3059,7 @@
                 content: "";
                 position: absolute;
                 top: -20px;
-                left: 25%;
+                left: 30%;
                 width: 50%;
                 height: 2px;
                 background: var(--black);
