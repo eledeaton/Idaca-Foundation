@@ -2399,7 +2399,7 @@
             /* Banner */
             
             #banner {
-                background-image: url("../../images/Helping\ hand.jpg");
+                background-image: url("../../images/Hand\ resized.png");
                 background-position: center center;
                 background-size: cover;
                 height: 28em;
@@ -2460,7 +2460,7 @@
             }
             
             .wrapper.style3 {
-                background-color: #37c0fb;
+                background-color: #21489ca9;
                 background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/bg01.png");
                 background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/bg01.png");
                 background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/bg01.png");
@@ -2747,7 +2747,7 @@
         background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3)), url("images/bg01.png"); */
                     height: 44px;
                     line-height: 44px;
-                    box-shadow: 0 4px 0 0 #21486ca9;
+                    box-shadow: 0 4px 0 0 #21489ca9;
                 }
                 #titleBar .title {
                     display: block;
