@@ -3248,6 +3248,7 @@
                 text-align: center;
                 box-shadow: 0 0 5px 0px #888;
                 transition: 300ms;
+                opacity: 66%;
             }
             
             .scroll i {
