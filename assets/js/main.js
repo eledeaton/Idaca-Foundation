@@ -69,7 +69,7 @@
 // Scroll To Top
 window.addEventListener('scroll', e => {
     var el = document.getElementById('jsScroll');
-    if (window.scrollY > 1200) {
+    if (window.scrollY > 1000) {
         el.classList.add('visible');
     } else {
         el.classList.remove('visible');
