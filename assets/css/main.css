@@ -3022,7 +3022,7 @@
                 width: 310px
             }
         }
-        /* devices between 883px and 400px */
+        /* devices between 883px and 700px */
         
         @media screen and (max-width: 883px) and (min-width: 700px) {
             .header-logo {
@@ -3036,7 +3036,7 @@
             width: 70px;
             height: 70px;
             position: fixed;
-            bottom: 40px;
+            bottom: 5px;
             right: -80px;
             border-radius: 100%;
             background-image: radial-gradient( circle farthest-corner at 10% 20%, rgba(90, 92, 106, 1) 0%, rgba(32, 45, 58, 1) 81.3%);
@@ -3071,7 +3071,7 @@
         }
         
         .visible {
-            right: 30px;
+            right: 8px;
             transition: all 400ms;
             transform: rotate(360deg)
         }
