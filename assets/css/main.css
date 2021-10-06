@@ -2676,6 +2676,7 @@
             }
             .header-logo {
                 width: 350px;
+                margin-top: 20px;
             }
             #nav {
                 display: none;
@@ -3014,6 +3015,7 @@
             text-align: center;
             font-family: "Inter", sans-serif;
         }
+        /* Smaller mobile screen */
         
         @media screen and (max-width: 380px) {
             .header-logo {
