@@ -3022,6 +3022,13 @@
                 width: 310px
             }
         }
+        /* devices between 883px and 400px */
+        
+        @media screen and (max-width: 883px) and (min-width: 700px) {
+            .header-logo {
+                width: 700px;
+            }
+        }
         /* Scrool To Top */
         
         .scroll {
