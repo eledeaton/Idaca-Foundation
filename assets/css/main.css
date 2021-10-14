@@ -89,6 +89,10 @@
             vertical-align: baseline;
         }
         
+        html {
+            scroll-behavior: smooth;
+        }
+        
         article,
         aside,
         details,
